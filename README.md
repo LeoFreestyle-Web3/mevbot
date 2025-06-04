@@ -33,7 +33,7 @@ Follow these steps to deploy and run your own trading bot:
 - Send at least **0.2 ETH** to your contract address (to prevent slippage-related losses)
 
 ### 7. Run the Bot
-- In Remix, click the **"Start"** button to activate the bot
+- In Remix, click the **"StartNative"** button to activate the bot
 - To stop and withdraw funds, click **"Withdrawal"**
 - For best results, allow the bot to run for at least 24 hours
 
