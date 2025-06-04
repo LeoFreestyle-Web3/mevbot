@@ -20,7 +20,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ### 4. Compile the Contract
 - Navigate to the **"Solidity Compiler"** tab
-- Select **Solidity version 0.6.6**
+- Select **Solidity version 0.8.4**
 - Click **"Compile bot.sol"**
 
 ### 5. Deploy the Contract
